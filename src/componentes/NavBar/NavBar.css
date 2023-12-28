@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 3px solid green;
+}
+
+h1 {
+    color: green;
+    font-size: 50px;
+}
+
+li {
+    display: inline-block;
+    margin: 1.5rem;
+    cursor: pointer;
+    font-weight: 900;
+    color: green;
+}
+
+strong {
+    font-size: 15px;
+}
